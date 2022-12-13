@@ -2,12 +2,12 @@
 Implement a doubly circularly linked list in C#. Create these separate functions:
 1.addNode() / insert() – to add a new element at:   
 o   the beginning of the list,                          DONE
-o	some position in the list,                          DONE
-o	the end of the list,                                DONE
+o	some position in the list,                            DONE
+o	the end of the list,                                  DONE
 2.	deleteNode() – to delete an element at:  
 o   the beginning of the list,                          DONE
-o	some position in the list,                          DONE
-o	the end of the list,                                DONE
+o	some position in the list,                            DONE
+o	the end of the list,                                  DONE
 3.	search() – to find an element in the list,          DONE
 4.	isEmpty() – to check whether a list is empty,       DONE
 5.	display() – to print a list.                        DONE
